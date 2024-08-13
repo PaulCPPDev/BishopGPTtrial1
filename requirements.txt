@@ -1,0 +1,12 @@
+streamlit
+streamlit_option_menu
+streamlit_lottie
+firebase_admin
+json
+requests
+python-dotenv
+langchain
+langchain-openai
+numpy
+matplotlib
+pandas
