@@ -1,3 +1,9 @@
 streamlit
+streamlit_lottie
 streamlit_option_menu
 firebase_admin
+langchain_core
+langchain
+langchain_openai
+dotenv
+
